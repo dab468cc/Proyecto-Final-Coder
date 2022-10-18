@@ -1,0 +1,33 @@
+.carousel-inner{
+    max-height: 30rem;
+    max-width: 30rem;
+    margin: auto;
+
+}
+
+footer{
+    min-height: 80px;
+    max-height: 80px;
+}
+footer p{
+    text-align: center;
+}
+#iconos{
+    padding: 0 10px ;
+}
+
+
+.img-carousel{
+    max-height: 12rem;
+    max-width: 12rem;
+
+}
+.img-accesorios{
+    max-width: 10rem;
+    max-height: 10rem;
+}
+
+#img-form{
+    min-width: 10rem;
+    max-width: 15rem;
+}
