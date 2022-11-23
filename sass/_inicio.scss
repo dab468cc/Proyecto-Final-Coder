@@ -1,0 +1,31 @@
+.texto__container{
+
+    max-width: 90%;
+    margin:4rem auto;
+    display: grid;
+    text-align: justify;
+    justify-content: space-evenly;
+    grid-template-columns:auto auto;
+    gap: 10px;
+    &-div{
+        margin: 20px;
+        border-right: 1px solid;
+        border-left: 1px solid ;
+        padding-right:1rem;
+        padding-left: 1rem;
+    }
+    &-img{
+        margin: 25px;
+        vertical-align: baseline;
+        margin: auto;
+        img{
+            width: 100%; 
+            
+        }
+
+    }
+}
+.footer__a{
+    position: absolute;
+    bottom: 0px;
+}
